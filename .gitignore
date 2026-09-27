@@ -1,0 +1,7 @@
+*.class
+.idea/
+.iml
+.classpath
+.project
+.settings/
+/hospitalManagement/
